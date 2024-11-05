@@ -12,27 +12,12 @@ Total Sales by Product:
 
 | Product | Total Sales |
 | --- | --- |
-| Product A | $43,211 |
-| Product B | $31,019 |
-| Product C | $20,508 |
+| Socks | 912,500 |
+| Jacket | 1,050,000 |
+| Gloves | 1,587,500
 
-Total Sales by Region:
 
-| Region | Total Sales |
-| --- | --- |
-| North | $51,411 |
-| South | $30,919 |
-| East | $23,208 |
-| West | $19,210 |
 
-Total Sales by Month:
-
-| Month | Total Sales |
-| --- | --- |
-| January | $15,011 |
-| February | $13,402 |
-| March | $14,501 |
-| ... | ... |
 
 Average Sales per Product:
 
@@ -46,10 +31,11 @@ Total Revenue by Region:
 
 | Region | Total Revenue |
 | --- | --- |
-| North | $61,411 |
-| South | $41,919 |
-| East | $33,208 |
-| West | $29,210 |
+| North | 1,950,000 |
+| South | 4,675,000 |
+| East | 2,450,000 |
+| West | 2,512,500 |
+| GRAND TOTAL | 10,587,500
 
 Other Interesting Reports:
 
@@ -67,16 +53,4 @@ Formulas Used:
 2. =AVERAGEIFS(Sales, Product, "Product A") (Average Sales per Product)
 3. =SUMIFS(Revenue, Region, "North") (Total Revenue by Region)
 
-Recommendations:
 
-1. Analyze sales trends by quarter.
-2. Investigate reasons for low sales in June.
-3. Explore product bundling opportunities.
-
-Next Steps:
-
-1. Drill down into product-level sales data.
-2. Conduct regional sales analysis.
-3. Create forecast models for future sales.
-
-This report provides a foundation for further analysis and insights into the sales data.
