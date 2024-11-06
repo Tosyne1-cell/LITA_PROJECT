@@ -7,7 +7,9 @@ II SQL
 
 III POWERBi to Initial Sales Data Exploration Report.
 
-## EXCEL
+
+
+## I EXCEL
 
 ### OBJECTIVE
 - To Perform an initial exploration of the sales data. Use pivot tables to summarize 
@@ -67,11 +69,11 @@ Pivot Table Screenshot:
 1. =SUM(Sales*Product) (Total Sales by Product)
 2. =AVERAGE(TOTAL SALES/UNIT COST) (Average Sales per Product)
 
-## Summary:
+### Summary:
 This report provides an initial exploration of the sales data, utilizing pivot tables and Excel formulas to summarize key metrics.
 
 
-## SQL
+## II SQL
 
 ### OBJECTIVE: 
  - To retrieve the total sales for each product category.
@@ -171,7 +173,7 @@ WHERE Product NOT IN (
     WHERE OrderDate >= DateAdd(Quarter, -1, GetDate() ) 
 	)
 ```
-### Results and Insights
+### SUMMARY
 
 At the end i was able to: Get
 Total sales by category.
@@ -181,3 +183,17 @@ Top-performing products and categories.
 ### Conclusion:
 
 The SQL queries provided valuable insights into sales data, highlighting top-selling products, regions, and customers. The analysis also identified products with no sales in the last quarter.
+
+
+
+
+## III POWERBi
+
+
+### OBJECTIVE:
+
+- To Create a dashboard that visualizes the insights found in Excel and SQL.
+-  The dashboard should include:
+   A sales overview,
+  Top-performing products, and 
+  Regional breakdowns
