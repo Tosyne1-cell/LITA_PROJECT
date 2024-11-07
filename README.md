@@ -201,8 +201,10 @@ Sales Overview: A general overview summarizing total sales, average sales, growt
 Top-Performing Products: Visual identification of the highest-selling products to focus on top revenue drivers.
 Regional Breakdowns: Insight into sales by region, allowing for targeted strategies based on geographic performance.
 
+![Screenshot 2024-11-07 205739](https://github.com/user-attachments/assets/05282a4d-1986-47b7-8efd-78c6a58dbfed)
 
 ### Data Sources and Preparation:
+
 
 Excel Data: Cleaned and organized to ensure compatibility with SQL datasets. Key metrics like product IDs, sales quantities, revenue, and region-specific data were stored.
 
