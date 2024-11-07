@@ -7,6 +7,7 @@ II SQL
 
 III POWERBi to Initial Sales Data Exploration Report.
 
+# PROJECT 1 (SALES DATA)
 
 
 ## I EXCEL
@@ -223,11 +224,63 @@ The dashboard successfully integrates Excel and SQL data to provide an at-a-glan
 
 
 
+# PROJECT 2 (CUSTOMER DATA)
+
+**Excel Analysis Report: Customer Subscription Data**
+
+**Objective:**
+The aim of this analysis is to explore customer subscription patterns, calculate the average subscription duration, identify the most popular subscription types, and generate additional insightful reports from the available customer data using Excel.
+
+---
+
+**Analysis Process:**
+
+1. **Data Preparation**:
+   - Data was cleaned to ensure accuracy, consistency, and compatibility for pivot table analysis.
+   - Customer records with incomplete or inconsistent subscription data were corrected or excluded.
+
+2. **Pivot Table Analysis for Subscription Patterns**:
+   - **Subscription Frequency**: Created pivot tables to observe how often customers renew their subscriptions and the timing of renewals. This helped identify any seasonal or monthly peaks in subscription renewals.
+   - **Customer Segmentation by Subscription Length**: Grouped customers based on the duration of their subscriptions ( monthly, quarterly, annually) to see which durations were most popular.
+
+3. **Average Subscription Duration**:
+   - Calculated the average duration by using Excel’s `AVERAGE` function on the "Subscription Duration" column.
+   - This revealed insights into typical customer retention periods and helped identify if shorter or longer durations were more prevalent.
+
+4. **Popular Subscription Types**:
+   - Analyzed subscription types  	Basic, Premium, Standard to determine which options are most popular.
+   - Pivot tables were used to calculate the number of customers per subscription type, showing clear preferences and highlighting which packages drive the most customer interest.
+  
+     ![Screenshot 2024-11-07 210750](https://github.com/user-attachments/assets/3740ef1a-e65e-419f-9867-daed45a5721f)
+
+
+
+**Conclusion and Recommendations:**
+
+The Excel analysis provided valuable insights into subscription patterns, customer preferences, and revenue drivers. To enhance customer retention, targeted offers around the average subscription duration and popular renewal periods are recommended. Additionally, expanding Premium offerings could further boost revenue, given its popularity. 
 
 
 
 
 
+
+**Power BI Dashboard Overview: Customer Segments, Cancellations, and Subscription Trends**
+
+**Objective**: To create an interactive Power BI dashboard that provides insights into key customer segments, cancellation rates, and subscription trends. This dashboard allows users to explore data with slicers for dynamic filtering.
+
+**Dashboard Components/Visuals**
+   - Donut chart
+   - Stacked column chart
+   - Cards
+   - Slicer
+   - Table
+
+     ![Screenshot 2024-11-07 211157](https://github.com/user-attachments/assets/6afa9675-d0b3-4eb5-9175-81e362f9be33)
+
+
+   ### Conclusion and Recommendations:
+
+The Power BI dashboard offers a comprehensive, interactive view of customer segmentation, cancellation patterns, and subscription trends. For actionable insights
 
 
 
