@@ -1,4 +1,4 @@
-# LITA_PROJECT
+# LITA_ CAPSTONE PROJECT 1 AND 2
 ## Project Tittle: Creating reports using
 
 I EXCEL
@@ -190,10 +190,43 @@ The SQL queries provided valuable insights into sales data, highlighting top-sel
 ## III POWERBi
 
 
-### OBJECTIVE:
+### OBJECTIVE:The primary goal of this project was to create an interactive and insightful dashboard that visualizes key sales metrics derived from Excel and SQL databases. This dashboard is intended to provide a quick overview of sales performance, highlight top-performing products, and present a regional breakdown of sales.
 
-- To Create a dashboard that visualizes the insights found in Excel and SQL.
--  The dashboard should include:
-   A sales overview,
-  Top-performing products, and 
-  Regional breakdowns
+
+### Project Scope and Requirements:
+
+The dashboard needed to include:
+
+Sales Overview: A general overview summarizing total sales, average sales, growth rate, and sales trend over a selected period.
+Top-Performing Products: Visual identification of the highest-selling products to focus on top revenue drivers.
+Regional Breakdowns: Insight into sales by region, allowing for targeted strategies based on geographic performance.
+
+
+### Data Sources and Preparation:
+
+Excel Data: Cleaned and organized to ensure compatibility with SQL datasets. Key metrics like product IDs, sales quantities, revenue, and region-specific data were stored.
+
+SQL Database: Aggregated data from transactional tables, including sales figures, product information, and regional identifiers. Queries were written to pull and join relevant datasets to structure the information for visualization.
+
+Data Transformation: Excel and SQL data were combined using transformations to remove redundancies, standardize data formats, and prepare data tables required for each dashboard element.
+
+### Dashboard Design and Development:
+
+Tools: Power BI was chosen for its powerful integration capabilities with both Excel and SQL and its robust visualization options.
+
+
+### Insights and Findings:
+
+The dashboard successfully integrates Excel and SQL data to provide an at-a-glance summary of key sales insights. Moving forward, it is recommended to automate data updates and consider adding additional filters for seasonality analysis. Regular feedback from users will also help to fine-tune visualizations for enhanced decision-making.
+
+
+
+
+
+
+
+
+
+
+
+
