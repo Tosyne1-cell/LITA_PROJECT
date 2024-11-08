@@ -36,15 +36,13 @@ III POWERBi to Initial Sales Data Exploration Report.
 
 [Excel Analysis Report](#excel-analysis-report)
 
-[Analysis Process](#analysis-process)
-
 [Conclusions and Recommendations](#conclusions-and-recommendations)
 
 [SQL Query Report](#sql-query-report)
 
-[Power BI Dashboard Overview](#power-bi-dashboard-overview)
+[PowerBI Dashboard Overview](#powerbi-dashboard-overview)
 
-[Dashboard Components/Visuals](#dashboard-components/visuals)
+[Dashboard Components Visuals](#dashboard-components-visuals)
   
 [Conclusion and Recommendations](#conclusion-and-recommendations)
 
@@ -269,7 +267,7 @@ The dashboard successfully integrates Excel and SQL data to provide an at-a-glan
 
 # PROJECT 2 CUSTOMER DATA
 
-**Excel Analysis Report**
+###Excel Analysis Report
 Customer Subscription Data
 
 **Objective:**
@@ -277,7 +275,7 @@ The aim of this analysis is to explore customer subscription patterns, calculate
 
 ---
 
-**Analysis Process:**
+###Analysis Process:
 
 1. **Data Preparation**:
    - Data was cleaned to ensure accuracy, consistency, and compatibility for pivot table analysis.
@@ -324,11 +322,11 @@ and revenue. This data is crucial for improving customer retention and identifyi
 
 
 
-**Power BI Dashboard Overview: Customer Segments, Cancellations, and Subscription Trends**
+**PowerBI Dashboard Overview: Customer Segments, Cancellations, and Subscription Trends**
 
 **Objective**: To create an interactive Power BI dashboard that provides insights into key customer segments, cancellation rates, and subscription trends. This dashboard allows users to explore data with slicers for dynamic filtering.
 
-**Dashboard Components/Visuals**
+**Dashboard Components Visuals**
    - Donut chart
    - Stacked column chart
    - Cards
