@@ -7,6 +7,7 @@ II SQL
 
 III POWERBi to Initial Sales Data Exploration Report.
 
+[PROJECT 1 SALES DATA](#project-1-sales-data)
 
 [I EXCEL](#i-excel)
 
@@ -47,7 +48,7 @@ III POWERBi to Initial Sales Data Exploration Report.
 [Conclusion and Recommendations](#conclusion-and-recommendations)
 
 
-# PROJECT1(SALES DATA)
+# PROJECT 1 SALES DATA
 
 
 ## I EXCEL
@@ -297,12 +298,14 @@ The aim of this analysis is to explore customer subscription patterns, calculate
 
 
 
-**Conclusions and Recommendations:**
+### Conclusions and Recommendations:
 
 The Excel analysis provided valuable insights into subscription patterns, customer preferences, and revenue drivers. To enhance customer retention, targeted offers around the average subscription duration and popular renewal periods are recommended. Additionally, expanding Premium offerings could further boost revenue, given its popularity. 
 
 
-**SQL Query Report: Subscription Data Analysis** To retrieve the total number of customers from each region.
+### SQL Query Report:
+
+Subscription Data Analysis** To retrieve the total number of customers from each region.
 o find the most popular subscription type by the number of customers.
 o find customers who canceled their subscription within 6 months.
 o calculate the average subscription duration for all customers.
@@ -321,12 +324,12 @@ The queries provide insights into customer distribution, popular subscriptions, 
 and revenue. This data is crucial for improving customer retention and identifying revenue opportunities.
 
 
-###PowerBI Dashboard Overview
+### PowerBI Dashboard Overview
 Customer Segments, Cancellations, and Subscription Trends**
 
 **Objective**: To create an interactive Power BI dashboard that provides insights into key customer segments, cancellation rates, and subscription trends. This dashboard allows users to explore data with slicers for dynamic filtering.
 
-**Dashboard Components Visuals**
+### Dashboard Components Visuals
    - Donut chart
    - Stacked column chart
    - Cards
