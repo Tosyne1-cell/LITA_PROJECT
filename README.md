@@ -26,12 +26,13 @@ III POWERBi to Initial Sales Data Exploration Report.
 
 [III POWERBi](#iii-powerbi)
 
-OBJECTIVE:
-Project Scope and Requirements:
-Data Sources and Preparation:
-Dashboard Design and Development:
-PowerBi Screenshot:
-Insights and Findings:
+[Project Scope and Requirements](#project-scope-and-requirements)
+
+[Data Sources and Preparation](#data-sources-and-preparation)
+
+[Dashboard Design and Development](#dashboard-design-and-development)
+
+[Insights and Findings](#insights-and-findings)
 
 
 # PROJECT1(SALES DATA)
