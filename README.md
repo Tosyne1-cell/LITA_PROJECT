@@ -8,7 +8,7 @@ II SQL
 III POWERBi to Initial Sales Data Exploration Report.
 
 
-[PROJECT1 SALES DATA](#project1-sales-data)
+[PROJECT1 SALES DATA](project1-sales-data)
 
 [I EXCEL](#i-excel)
 
@@ -17,13 +17,20 @@ III POWERBi to Initial Sales Data Exploration Report.
 [Key Findings](#key-findings)
 
 
-Other Interesting Reports:
-Pivot Table Screenshot:
-Formulas Used:
-Summary:
-II SQL
-OBJECTIVE:
-LITA CAPSTONE DATA PROJECT 1
+[Other Interesting Reports](#other-interesting-reports)
+
+[Pivot Table Screenshot](#pivot-table-screenshot)
+
+[Formulas Used](#formulas-used)
+
+[Summary](#summary)
+
+[II SQL](#ii-sql)
+
+[OBJECTIVE](#objective)
+
+[LITA CAPSTONE DATA PROJECT 1](#lita-capstone-data-project-1)
+
 1. Total sales for each product category
 2. Number of Sales Transaction in each region
 3. HIGHEST SELLING PRODUCT BY TOTAL SALES
