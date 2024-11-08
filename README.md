@@ -321,8 +321,8 @@ The queries provide insights into customer distribution, popular subscriptions, 
 and revenue. This data is crucial for improving customer retention and identifying revenue opportunities.
 
 
-
-**PowerBI Dashboard Overview: Customer Segments, Cancellations, and Subscription Trends**
+###PowerBI Dashboard Overview
+Customer Segments, Cancellations, and Subscription Trends**
 
 **Objective**: To create an interactive Power BI dashboard that provides insights into key customer segments, cancellation rates, and subscription trends. This dashboard allows users to explore data with slicers for dynamic filtering.
 
