@@ -9,8 +9,11 @@ III POWERBi to Initial Sales Data Exploration Report.
 
 
 [PROJECT 1 (SALES DATA)](#project-1-(sales-data))
-I EXCEL
-OBJECTIVE
+
+[I EXCEL](#i-excel)
+
+[OBJECTIVE](#objective)
+
 Key Findings:
 Other Interesting Reports:
 Pivot Table Screenshot:
