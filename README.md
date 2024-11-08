@@ -7,6 +7,41 @@ II SQL
 
 III POWERBi to Initial Sales Data Exploration Report.
 
+
+[PROJECT 1 (SALES DATA)](#project-1-(sales-data))
+I EXCEL
+OBJECTIVE
+Key Findings:
+Other Interesting Reports:
+Pivot Table Screenshot:
+Formulas Used:
+Summary:
+II SQL
+OBJECTIVE:
+LITA CAPSTONE DATA PROJECT 1
+1. Total sales for each product category
+2. Number of Sales Transaction in each region
+3. HIGHEST SELLING PRODUCT BY TOTAL SALES
+4. Total Revenue per product
+5. Monthly sales total for 2024
+6. Top 5 customers by total purchase amount
+7. Percentage of Total sale Contributed by Region
+8. Identify products with no sale in the last quarter
+SUMMARY
+Conclusion:
+III POWERBi
+OBJECTIVE:
+Project Scope and Requirements:
+Data Sources and Preparation:
+Dashboard Design and Development:
+PowerBi Screenshot:
+Insights and Findings:
+
+
+
+
+
+
 # PROJECT 1 (SALES DATA)
 
 
@@ -126,7 +161,7 @@ GROUP BY Product
 	 Group By [Product]
 ```
 
-5. Monthly sales total for 2024-
+5. Monthly sales total for 2024
 
 ```SQL
 
@@ -202,8 +237,6 @@ Sales Overview: A general overview summarizing total sales, average sales, growt
 Top-Performing Products: Visual identification of the highest-selling products to focus on top revenue drivers.
 Regional Breakdowns: Insight into sales by region, allowing for targeted strategies based on geographic performance.
 
-![Screenshot 2024-11-07 205739](https://github.com/user-attachments/assets/05282a4d-1986-47b7-8efd-78c6a58dbfed)
-
 ### Data Sources and Preparation:
 
 
@@ -216,6 +249,12 @@ Data Transformation: Excel and SQL data were combined using transformations to r
 ### Dashboard Design and Development:
 
 Tools: Power BI was chosen for its powerful integration capabilities with both Excel and SQL and its robust visualization options.
+
+
+PowerBi Screenshot:
+
+![Screenshot 2024-11-07 205739](https://github.com/user-attachments/assets/05282a4d-1986-47b7-8efd-78c6a58dbfed)
+
 
 
 ### Insights and Findings:
