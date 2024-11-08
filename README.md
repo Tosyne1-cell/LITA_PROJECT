@@ -8,13 +8,15 @@ II SQL
 III POWERBi to Initial Sales Data Exploration Report.
 
 
-[PROJECT1(SALES DATA)](#project1(sales-data))
+[PROJECT1 SALES DATA](#project1-sales-data)
 
 [I EXCEL](#i-excel)
 
 [OBJECTIVE](#objective)
 
-Key Findings:
+[Key Findings](#key-findings)
+
+
 Other Interesting Reports:
 Pivot Table Screenshot:
 Formulas Used:
