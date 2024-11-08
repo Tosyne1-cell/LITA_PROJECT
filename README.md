@@ -14,8 +14,6 @@ III POWERBi to Initial Sales Data Exploration Report.
 
 [Other Interesting Reports](#other-interesting-reports)
 
-[Pivot Table Screenshot](#pivot-table-screenshot)
-
 [Formulas Used](#formulas-used)
 
 [Summary](#summary)
@@ -33,6 +31,22 @@ III POWERBi to Initial Sales Data Exploration Report.
 [Dashboard Design and Development](#dashboard-design-and-development)
 
 [Insights and Findings](#insights-and-findings)
+
+[PROJECT 2 CUSTOMER DATA](#project-2-customer-data)
+
+[Excel Analysis Report](#excel-analysis-report)
+
+[Analysis Process](#analysis-process)
+
+[Conclusions and Recommendations](#conclusions-and-recommendations)
+
+[SQL Query Report](#sql-query-report)
+
+[Power BI Dashboard Overview](#power-bi-dashboard-overview)
+
+[Dashboard Components/Visuals](#dashboard-components/visuals)
+  
+[Conclusion and Recommendations](#conclusion-and-recommendations)
 
 
 # PROJECT1(SALES DATA)
@@ -253,9 +267,10 @@ The dashboard successfully integrates Excel and SQL data to provide an at-a-glan
 
 
 
-# PROJECT 2 (CUSTOMER DATA)
+# PROJECT 2 CUSTOMER DATA
 
-**Excel Analysis Report: Customer Subscription Data**
+**Excel Analysis Report**
+Customer Subscription Data
 
 **Objective:**
 The aim of this analysis is to explore customer subscription patterns, calculate the average subscription duration, identify the most popular subscription types, and generate additional insightful reports from the available customer data using Excel.
@@ -284,7 +299,7 @@ The aim of this analysis is to explore customer subscription patterns, calculate
 
 
 
-**Conclusion and Recommendations:**
+**Conclusions and Recommendations:**
 
 The Excel analysis provided valuable insights into subscription patterns, customer preferences, and revenue drivers. To enhance customer retention, targeted offers around the average subscription duration and popular renewal periods are recommended. Additionally, expanding Premium offerings could further boost revenue, given its popularity. 
 
