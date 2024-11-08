@@ -267,7 +267,7 @@ The dashboard successfully integrates Excel and SQL data to provide an at-a-glan
 
 # PROJECT 2 CUSTOMER DATA
 
-###Excel Analysis Report
+### Excel Analysis Report
 Customer Subscription Data
 
 **Objective:**
@@ -275,7 +275,7 @@ The aim of this analysis is to explore customer subscription patterns, calculate
 
 ---
 
-###Analysis Process:
+### Analysis Process:
 
 1. **Data Preparation**:
    - Data was cleaned to ensure accuracy, consistency, and compatibility for pivot table analysis.
