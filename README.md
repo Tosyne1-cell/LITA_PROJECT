@@ -8,7 +8,7 @@ II SQL
 III POWERBi to Initial Sales Data Exploration Report.
 
 
-[PROJECT 1 (SALES DATA)](#project-1-(sales-data))
+[PROJECT1(SALES DATA)](#project1(sales-data))
 
 [I EXCEL](#i-excel)
 
@@ -45,7 +45,7 @@ Insights and Findings:
 
 
 
-# PROJECT 1 (SALES DATA)
+# PROJECT1(SALES DATA)
 
 
 ## I EXCEL
