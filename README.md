@@ -8,14 +8,9 @@ II SQL
 III POWERBi to Initial Sales Data Exploration Report.
 
 
-[PROJECT1 SALES DATA](#project1-sales-data)
-
 [I EXCEL](#i-excel)
 
-[OBJECTIVE](#objective)
-
 [Key Findings](#key-findings)
-
 
 [Other Interesting Reports](#other-interesting-reports)
 
@@ -27,31 +22,16 @@ III POWERBi to Initial Sales Data Exploration Report.
 
 [II SQL](#ii-sql)
 
-[OBJECTIVE](#objective)
+[SUMMARY And Conclusion](#summary-and-conclusion)
 
-[LITA CAPSTONE DATA PROJECT 1](#lita-capstone-data-project-1)
+[III POWERBi](#iii-powerbi)
 
-1. Total sales for each product category
-2. Number of Sales Transaction in each region
-3. HIGHEST SELLING PRODUCT BY TOTAL SALES
-4. Total Revenue per product
-5. Monthly sales total for 2024
-6. Top 5 customers by total purchase amount
-7. Percentage of Total sale Contributed by Region
-8. Identify products with no sale in the last quarter
-SUMMARY
-Conclusion:
-III POWERBi
 OBJECTIVE:
 Project Scope and Requirements:
 Data Sources and Preparation:
 Dashboard Design and Development:
 PowerBi Screenshot:
 Insights and Findings:
-
-
-
-
 
 
 # PROJECT1(SALES DATA)
@@ -221,15 +201,12 @@ WHERE Product NOT IN (
     WHERE OrderDate >= DateAdd(Quarter, -1, GetDate() ) 
 	)
 ```
-### SUMMARY
+### SUMMARY And Conclusion
 
 At the end i was able to: Get
 Total sales by category.
 Highest and lowest sales days.
 Top-performing products and categories.
-
-### Conclusion:
-
 The SQL queries provided valuable insights into sales data, highlighting top-selling products, regions, and customers. The analysis also identified products with no sales in the last quarter.
 
 
